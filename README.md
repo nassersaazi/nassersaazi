@@ -1,8 +1,8 @@
 - 👋 Hi, I’m nasser
-- 👀 I’m interested in all things AI and Bitcoin
-- 🌱 I’m currently learning the nuts and bolts of the Lightning Network
+- 👀 I’m interested in all things Nostr and Bitcoin
+- 🌱 I’m currently learning the nuts and bolts of Nostr 
 - ✨ My language stack includes Rust, Javascript and Python
-- 💞️ I’m looking to collaborate on any NLP or Bitcoin-related projects
+- 💞️ I’m looking to collaborate on any Nostr or Bitcoin-related projects
 <!--- 📫 Find out more about me [here](https://nassersaazi.github.io/portfolio)
 
 <!---
