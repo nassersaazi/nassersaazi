@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nasser
 - 👀 I’m interested in all things open source
-- ✨ My language stack includes Rust, Javascript and Python
+- ✨ My language stack includes Rust, Java and Python
 - 💞️ I’m looking to collaborate in any way, shape or form
 <!--- 📫 Find out more about me [here](https://nassersaazi.github.io/portfolio)
 
